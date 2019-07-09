@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl":"https://www.amazon.com/CLARKS-Shoe-26110310-Tilden-Black/dp/B00TTJETD2/ref=lp_18637582011_1_2?srs=18637582011&ie=UTF8&qid=1562690344&sr=8-2"
+}
